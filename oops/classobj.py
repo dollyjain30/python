@@ -3,3 +3,10 @@
 
 # Object (Instance): An object is a specific instance created from the class blueprint. If "Car" is the class, then your red Honda Civic is an object (an instance) of the "Car" class. Each object has its own unique set of data. It's like the actual house built from the architectural plan.
 
+class Employee:
+    company="Hp"
+    def get_salary(slef):
+        return 234
+
+e=Employee()
+print(e.get_salary())
