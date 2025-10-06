@@ -1,0 +1,4 @@
+Use if, elif, and else for decision-making.
+Use match-case for pattern matching (Python 3.10+).
+Use for loops to iterate over sequences and while loops for repeated execution based on a condition.
+Control loop execution with break, continue, and pass.
